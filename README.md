@@ -1,0 +1,1 @@
+This is the first project that I do for The Odin Project (TOP). The project is about building a basic recipe website. The skills use in this project are basic HTML, such as p,headings,links and images tags.  
